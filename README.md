@@ -17,19 +17,19 @@ This modular and portable system aids real-time communication for individuals wi
 
 ## INDEX
 
-| S.No | Content                                      | 
-|------|----------------------------------------------|
-| 1    | [Introduction](#1-introduction)              | 
-| 2    | [Proposed Work](#2-proposed-work) | 
-| 3    | [Results and Discussion](#3-results-and-discussion) |
-| 4    | [Project Codes](#4-project-codes)            | 
-| 5    | [Conclusion](#5-conclusion)                  | 
-| 6    | [Applications](#6-applications)              | 
-| 7    | [Snapshot of Project Output](#7-snapshot-of-project-output) |
+| Content                                      | 
+|----------------------------------------------|
+| [Introduction](#introduction)              | 
+| [Proposed Work](#proposed-work) | 
+| [Results and Discussion](#results-and-discussion) |
+| [Project Codes](#project-codes)            | 
+| [Conclusion](#conclusion)                  | 
+| [Applications](#applications)              | 
+| [Snapshot of Project Output](#snapshot-of-project-output) |
 
 ---
 
-## 1. INTRODUCTION
+##  INTRODUCTION
 
 Hearing and speech impairments pose significant challenges to effective communication.  
 While sign language bridges this gap for the deaf community, its effectiveness is limited by the lack of understanding among the general public.
@@ -41,7 +41,7 @@ This project proposes:
 
 ---
 
-## 2. PROPOSED WORK 
+##  PROPOSED WORK 
 
 ### 🔹 Objective
 
@@ -71,7 +71,7 @@ To design a system that translates spoken English sentences into sign language a
 
 ---
 
-## 3. RESULTS AND DISCUSSION
+##  RESULTS AND DISCUSSION
 
 - Accurate speech capture and transcription using Wav2Vec2.
 - Smooth playback of matching videos.
@@ -81,13 +81,13 @@ To design a system that translates spoken English sentences into sign language a
 
 ---
 
-## 4. PROJECT CODES
+##  PROJECT CODES
 - **MATLAB** [sign_language_gui.m](./sign_language_gui.m)
-- **PYTHON** [transcribe_wav2vec.py](./transcribe_wav2vec)
+- **PYTHON** [transcribe_wav2vec.py](./transcribe_wav2vec.py)
 
 
 ---
-## 5. CONCLUSION
+##  CONCLUSION
    This project shows how deep learning and interactive design can support accessible communication. Real-time translation of speech to sign language offers a powerful tool for inclusion.
 ### Future enhancements can include:  
 
@@ -96,7 +96,7 @@ To design a system that translates spoken English sentences into sign language a
 🔹Bidirectional communication     
 
 ---
-## 6.APPLICATIONS
+## APPLICATIONS
 🔹Inclusive Education – Help hearing-impaired students follow spoken lectures.  
 🔹Smart Homes – Translate voice alerts into sign language.  
 🔹Customer Service – Enable smooth interaction at reception desks.  
@@ -104,10 +104,25 @@ To design a system that translates spoken English sentences into sign language a
 🔹Public Announcements – ISL translation at airports, stations.  
 🔹Mobile/Web Apps – Make the tool portable.  
 🔹Training Centers – Deliver technical content to hearing-impaired learners. 
-## 7.Snapshot of Project Output 
+## Snapshot of Project Output 
 
 Watch a demo of our Sign Language Interpretation system below:  
-[📂 Watch Output Video ](https://drive.google.com/drive/folders/11b9SaNsXCi0N_iBXscmAXPOEkcAB8Un5)
+[📂Click here to watch the demo video on Google Drive ](https://drive.google.com/drive/folders/11b9SaNsXCi0N_iBXscmAXPOEkcAB8Un5)  
+
+> *This video demonstrates the real-time speech-to-sign language interpretation system.*
+
+---
+
+## Indian Sign Language Animated Videos
+
+🎬 [ISL animated videos by K.Chouhan, Kaggle 2021](https://www.kaggle.com/datasets/koushikchouhan/indian-sign-language-animated-videos)
+
+> *This link provides the ISL animated video dataset for 151 words*
+
+---
+
+
+
 
 
 
